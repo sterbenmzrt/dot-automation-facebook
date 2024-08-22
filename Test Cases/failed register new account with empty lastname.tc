@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>failed register new account with empty lastname</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>91be8667-4381-4551-9d86-e3a9f70e3098</testCaseGuid>
+</TestCaseEntity>
